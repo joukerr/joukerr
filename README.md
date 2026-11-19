@@ -1,9 +1,11 @@
-<h1 align="center">Hola 👋, soy Xavier Andreu</h1>
+<h1 align="center">Hola 👋, soy Xavier Pérez</h1>
 <h3 align="center">Un apasionado en crecimiento constante en materia de ciberseguridad</h3>
 
 - 🌱 Ahora mismo me encuentro aprendiendo **pentesting y derivados**
 
 - 👨‍💻 Todos mis proyectos CTF se encuentran en [https://github.com/joukerr/CTF](https://github.com/joukerr/CTF)
+- Linkedin https://www.linkedin.com/in/xavier-p-1013702a8/
+- Canal de Youtube https://www.youtube.com/@JoukerrCiberseguridadMorada/videos
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
